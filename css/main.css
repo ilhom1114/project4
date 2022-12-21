@@ -19,7 +19,7 @@ ul {
     height: 100vh;
     background: darkcyan;
 }
-.nav__container {
+.nav {
     padding: 15px 0;
     display: flex;
     justify-content: space-between;
